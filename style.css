@@ -1,0 +1,947 @@
+header{
+    background: url(img1.png);
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+}
+.densoH1{
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
+}
+.divHeader1{
+    background-color: rgba(60, 184, 120, 1);
+    opacity: 0.8588235294117647;
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+    align-items: center;
+}
+.img2{
+    width: 60px;
+    height: 60px;
+}
+.bigDivImg2{
+    display: flex;
+    align-items: center;
+}
+.img3{
+    width: 25px;
+    height: 25px;
+}
+.bigDivImg3{
+    display: flex;
+    align-items: center;
+}
+.img4{
+    width: 25px;
+    height: 20px;
+}
+.bigDivImg4{
+    display: flex;
+    align-items: center;
+}
+.divImg5{
+    background-color: white;
+    width: 40px;
+    height: 42px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img5{
+    width: 25px;
+    height: 25px;
+}
+.input1{
+    border: 0;
+    height: 40px;
+}
+.bigDivImg5{
+    display: flex;
+    align-items: center;
+}
+.ul1 li{
+    list-style-type: none;
+    color: white;
+}
+.ul1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav{
+    background-color: rgba(34, 43, 60, 1);
+    height: 70px;
+}
+.img6{
+    width: 20px;
+    height: 100px;
+}
+.divImg6{
+    display: flex;
+    align-items: center;
+}
+.divLorem1{
+    width: 300px;
+}
+.button1{
+    background-color: rgba(60, 184, 120, 1);
+    border: 0;
+    color: white;
+    width: 170px;
+    height: 40px;
+}
+.phone{
+    color: white;
+}
+.gmail{
+    color: white;
+}
+.autosH1{
+    color: white;
+}
+.transH1{
+    color: white;
+}
+.divLorem1 h3{
+    color: white;
+}
+.divHeader2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 700px;
+}
+.divInputs{
+    display: flex;
+    flex-direction: column;
+    
+}
+.bigDivInputs{
+    background-color: rgba(60, 184, 120, 1);
+    opacity: 0.8588235294117647;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.inputs{
+    width: 300px;
+    height: 30px;
+    border: 0;
+    color: grey;
+    margin-top: 10px;
+}
+.getH1{
+    color: white;
+}
+.profesH1{
+    color: white;
+}
+.button2{
+    width: 180px;
+    height: 30px;
+    background-color: rgb(43, 43, 43);
+    color: white;
+    border: 0;
+    margin-top: 10px;
+}
+.divButtons{
+    display: flex;
+    flex-direction: column;
+}
+.but1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 0;
+    background-color:rgba(34, 43, 60, 0.8) ;
+    margin-top: 5px;
+}
+.but2{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 0;
+    background-color:rgba(34, 43, 60, 0.8) ;
+    margin-top: 5px;
+}
+.h2{
+    color: white;
+}
+.divH2{
+    display: flex;
+    align-items: flex-end;
+    height: 200px;
+}
+.divLorem2{
+    width: 600px;
+}
+.divLorem2 h5{
+    text-align: center;
+    color: rgb(92, 92, 92);
+}
+.img7{
+    width: 50px;
+    height: 20px;
+}
+.divImg7{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.smallDivL2{
+    display: flex;
+    justify-content: center;
+}
+.welcomeH1{
+    font-family: 'Titillium Web', sans-serif;
+}
+.i2mg7{
+    width: 50px;
+    height: 20px;
+}
+.servicesH1{
+    font-family: 'Titillium Web', sans-serif;
+}
+.divLorem3{
+    color: rgb(92, 92, 92);
+    text-align: center;
+}
+.divI2mg7{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.divImg8{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: rgba(60, 184, 120, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img8{
+    width: 70px;
+    height: 70px;
+}
+.divImg9{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: rgba(60, 184, 120, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img9{
+    width: 70px;
+    height: 50px;
+}
+.divImg10{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: rgba(60, 184, 120, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img10{
+    width: 70px;
+    height: 50px;
+}
+.divImg11{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: rgba(60, 184, 120, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img11{
+    width: 70px;
+    height: 70px;
+}
+.divImg12{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: rgba(60, 184, 120, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img12{
+    width: 60px;
+    height: 70px;
+}
+.bigDivImg8-12{
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    align-items: center;
+}
+.bigDivImg8-12 div{
+    margin: 7px;
+}
+.buttonRead{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(36, 36, 36);
+    color: white;
+    border: 0;
+}
+.divButonRead{
+    display: flex;
+    justify-content: center;
+}
+.hello{
+    text-align: center;
+}
+.i3mg7{
+    width: 50px;
+    height: 20px;
+}
+.aboutH1{
+    font-family: 'Titillium Web', sans-serif;
+}
+.divLorem4{
+    width: 400px;
+}
+.buttonRead2{
+    width: 200px;
+    height: 50px;
+    color: white;
+    background-color: rgb(24, 24, 24) ;
+    border: 0;
+}
+.bigDivSection1{
+    display: flex;
+    flex-direction: column;
+    height: 900px;
+    align-items: center;
+}
+.bigDivSection2{
+    background-color: rgb(238, 238, 238);
+    display: flex;
+    justify-content: end;
+}
+.img13{
+    width: 600px;
+    height: 350px;
+}
+.smalDivSect2{
+    margin-right: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.latestH1{
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 30px;
+}
+.i4mg7{
+    width: 50px;
+    height: 20px;
+}
+.class1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.i2mg1{
+    width: 300px;
+    height: 200px;
+}
+.lorem5{
+    width: 280px;
+    text-align: center;
+    color: grey;
+}
+.img14{
+    width: 300px;
+    height: 200px;
+}
+.lorem6{
+    width: 280px;
+    text-align: center;
+    color: grey;
+}
+.newH5{
+    text-align: center;
+    width: 300px;
+}
+.lierH5{
+    text-align: center;
+    width: 300px;
+}
+.lorem7{
+    width: 280px;
+    text-align: center;
+    color: grey;
+}
+.new2H5{
+    text-align: center;
+    width: 300px;
+}
+.img15{
+    width: 300px;
+    height: 200px;
+}
+.butonRead3{
+    width: 200px;
+    height: 50px;
+    color: white;
+    background-color: rgb(24, 24, 24) ;
+    border: 0;
+}
+.bigDiv{
+    display: flex;
+    justify-content: space-around;
+    height: 600px;
+    align-items: center;
+}
+.divButtonR3{
+    display: flex;
+    justify-content: center;
+}
+.bigDivSection3{
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.bigDivSection4{
+    background-image: url(img1.png);
+    background-size: cover;
+}
+.bigDivImg16{
+    background-color: rgba(60, 184, 120,0.6588235294117647 );
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.img16{
+    width: 60px;
+    height: 20px;
+}
+.testH1{
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
+}
+.img17{
+    width: 60px;
+    height: 60px;
+}
+.bigDivImg17{
+    background-color: white;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 250px;
+}
+.lorem8{
+    width: 450px;
+}
+.smallDivSect4{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 500px;
+    background-color: rgba(60, 184, 120,0.6588235294117647 );
+}
+.hello2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 600px;
+}
+.button{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(37, 37, 37);
+    color: white;
+    border: 0;
+}
+.divImg17{
+    display: flex;
+    margin-left: 15px;
+}
+.divImg17 h1{
+    color: rgb(34, 151, 90);
+    text-align: center;
+    width: 190px;
+}
+.divLorem8{
+    margin-left: 15px;
+}
+.inputs2{
+    color: gray;
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px solid blue;
+    width: 400px;
+    height: 30px;
+}
+.divInpMessage{
+    display: flex;
+    height: 200px;
+    align-items: center;
+}
+.divInputs2{
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.i3mg7{
+    width: 50px;
+    height: 20px;
+}
+.sendButton{
+    width: 150px;
+    height: 50px;
+    background-color: orangered;
+    color: white;
+    border: 0;
+    border-radius: 30px;
+}
+.requestH1{
+    font-family: 'Titillium Web', sans-serif;
+}
+.divReqH1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.bigDivInps2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+.divSendBut{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    background-color: rgb(37, 37, 37);
+}
+.bigDivSection5{
+    height: 700px;
+}
+.callH3{
+    color: white;
+}
+.bigDivImg18{
+    display: flex;
+    align-items: center;
+}
+.img18{
+    width: 20px;
+    height: 30px;
+}
+.divImg18{
+    border: 1px solid white;
+    width: 22px;
+    height: 32px;
+}
+.bigDivImg19{
+    display: flex;
+    align-items: center;
+}
+.bigDivImg20{
+    display: flex;
+    align-items: center;
+}
+.img19{
+    width: 20px;
+    height: 25px;
+}
+.img20{
+    width: 40px;
+    height: 30px;
+}
+.divImg19{
+    width: 22px;
+    height: 27px;
+    border: 1px solid white;
+}
+.divImg20{
+    width: 41px;
+    height: 32px;
+    border: 1px solid white;
+}
+.locatH3{
+    color: white;
+}
+.gmailH3{
+    color: white;
+}
+.bigDivFooter1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.img21{
+    width: 100px;
+    height: 100px;
+}
+.densoH1Foot{
+    font-size: 50px;
+    color: white;
+}
+.bigDivImg21{
+    display: flex;
+}
+.bigDivFooter2{
+    background-color: rgb(60, 184, 120);
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+    align-items: center;
+}
+.lorem9{
+    width: 500px;
+    color: white;
+}
+.logos{
+    width: 40px;
+    height:40px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.divLogos{
+    display: flex;
+}
+.h3{
+    color: white;
+    text-align: center;
+    width: 140px;
+}
+.h4{
+    color: white;
+    text-align: center;
+    width: 140px;
+}
+.divH3AndH4{
+    display: flex;
+}
+.img26{
+    height: 300px;
+}
+.h2End{
+    color: white;
+    text-align: center;
+}
+.liDivs{
+    width: 120px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.p{
+    background-color: rgb(60, 184, 120);
+}
+.t{
+    background-color: white;
+    color: black;
+}
+.liDivs:hover{
+    cursor: crosshair;
+}
+@media screen and (max-width:1115px){
+    .divHeader1{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 300px;
+    }
+    .bigDivSection2{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .divHeader2{
+        height: 450px;
+    }
+    .bigDiv{
+        flex-direction: column;
+        height: 1300px;
+    }
+    .bigDivSection3{
+        height: 1500px;
+    }
+    .smallDivSect4{
+        flex-direction: column;
+        height: 700px;
+    }
+    .bigDivFooter2{
+        flex-direction: column;
+        height: 700px;
+    }
+    .img26{
+        display: none;
+    }
+    .lorem9{
+        width: 450px;
+    }
+}
+@media screen and (max-width:935px) {
+    .ul1{
+        flex-direction: column;
+        padding: 0;
+    }
+    .nav{
+        height: 350px;
+    }
+    header{
+        height: 1800px;
+    }
+    .divHeader2{
+        flex-direction: column;
+        height: 1200px;
+    }
+    .bigDivInputs{
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    .bigDivImg8-12{
+        flex-direction: column;
+        height: 1300px;
+    }
+    .bigDivSection1{
+        height: 1800px;
+    }
+    .ul1 li{
+        margin: 3px;
+    }
+    .lorem2{
+        width: 280px;
+    }
+    .divLorem2{
+        width: 100%;
+    }
+    .img13{
+        width: 470px;
+        height: 240px;
+    }
+    .bigDivImg17{
+        width: 400px;
+    }
+    .hello2{
+        width: 450px;
+    }
+    .lorem8{
+        width: 350px;
+    }
+    .bigDivFooter1{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+@media screen and (max-width:500px) {
+    .bigDivInputs{
+        width: 270px;
+        height: 290px;
+    }
+    .getH1{
+        font-size: 20px;
+    }
+    .inputs{
+        width: 250px;
+        height: 25px;
+    }
+    .button2{
+        width: 180px;
+        height: 25px;
+    }
+    .autosH1{
+        font-size: 20px;
+    }
+    .transH1{
+        font-size: 20px;
+    }
+    .img6{
+        height: 70px;
+    }
+    .divLorem1{
+        width: 270px;
+    }
+    header{
+        height: 1500px;
+    }
+    .divHeader2{
+        height: 1200px;
+    }
+    .bigDivSection1{
+        height: 1900px;
+    }
+    .img13{
+        width: 280px;
+        height: 140px;
+    }
+    .buttonRead2{
+        width: 120px;
+        height: 25px;
+    }
+    .aboutH1{
+        font-size: 10px;
+    }
+    .i3mg7{
+        width: 30px;
+        height: 10px;
+    }
+    .divLorem4 h5{
+        width: 250px;
+        font-size: 1px;
+    }
+    .divLorem4{
+        width: 100%;
+    }
+    .bigDivImg17{
+        width: 280px;
+        height: 200px;
+    }
+    .hello2{
+        width: 380px;
+    }
+    .lorem8{
+        width: 250px;
+    }
+    .hello2{
+        flex-direction: column;
+        width: 280px;
+        height: 250px;
+        align-items: center;
+    }
+    .inputs2{
+        width: 250px;
+    }
+    .lorem9{
+        width: 240px;
+        text-align: center;
+    }
+    .logos{
+        width: 30px;
+        height: 30px;
+    }
+    .img21{
+        width: 70px;
+        height: 70px;
+    }
+    .densoH1Foot{
+        font-size: 25px;
+    }
+    .divH3AndH4{
+        flex-direction: column;
+    }
+    .bigDivFooter2{
+        height: 1300px;
+    }
+    .divLogos{
+        width: 100%;
+        justify-content: center;
+    }
+    .bigDivImg21{
+        justify-content: center;
+    }
+}
+@media screen and (max-width:390px) {
+    .welcomeH1{
+        text-align: center;
+    }
+    .i2mg1{
+        width: 200px;
+        height: 120px;
+    }
+    .img14{
+        width: 200px;
+        height: 120px;
+    }
+    .img15{
+        width: 200px;
+        height: 120px;
+    }
+    .lorem5{
+        width: 250px;
+    }
+    .lorem6{
+        width: 250px;
+    }
+    .lorem7{
+        width: 250px;
+    }
+    .divLorem5{
+        display: flex;
+        justify-content: center;
+    }
+    .divLorem6{
+        display: flex;
+        justify-content: center;
+    }
+    .divLorem7{
+        display: flex;
+        justify-content: center;
+    }
+    .divI2mg1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .divImg14{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .divImg15{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .new2H5{
+        width: 270px;
+    }
+    .newH5{
+        width: 270px;
+    }
+    .divLorem6{
+        width: 270px;
+    }
+    .lierH5{
+        width: 270px;
+    }
+    .bigDivImg17{
+        width: 240px;
+        height: 230px;
+    }
+    .hello2{
+        width: 140px;
+    }
+    .lorem8{
+        width: 220px;
+    }
+    .hello2{
+        flex-direction: column;
+        width: 280px;
+        height: 250px;
+        align-items: center;
+    }
+}
